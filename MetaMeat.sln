@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMeat", "MetaMeat\MetaMeat.csproj", "{1342353A-F6CF-410F-8CEC-A570CF58C240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMeat.Console", "MetaMeat.Console\MetaMeat.Console.csproj", "{06C6D804-DA6E-4B28-9B90-269C4B25A64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1342353A-F6CF-410F-8CEC-A570CF58C240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1342353A-F6CF-410F-8CEC-A570CF58C240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1342353A-F6CF-410F-8CEC-A570CF58C240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1342353A-F6CF-410F-8CEC-A570CF58C240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C6D804-DA6E-4B28-9B90-269C4B25A64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C6D804-DA6E-4B28-9B90-269C4B25A64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C6D804-DA6E-4B28-9B90-269C4B25A64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C6D804-DA6E-4B28-9B90-269C4B25A64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
